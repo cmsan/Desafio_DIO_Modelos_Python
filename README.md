@@ -2,3 +2,6 @@
 Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
 
 Análise exploratória dos dados do COVID-19 com Python.
+
+Atividade prática realizada sob supervisão do Prof. Dr. Neylson Crepalde.
+Sendo replicado a analise feita em aula.
